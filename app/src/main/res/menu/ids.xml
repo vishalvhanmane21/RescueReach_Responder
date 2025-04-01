@@ -1,0 +1,5 @@
+<resources>
+    <item name="nav_home" type="id"/>
+    <item name="nav_incident_resolve" type="id"/>
+    <item name="nav_logout" type="id"/>
+</resources>
